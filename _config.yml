@@ -1,3 +1,5 @@
 title: AWL Autohub
 description: Personal automation tools by Adam Lester
 theme: jekyll-theme-minimal
+exclude:
+  - AGENTS.md
